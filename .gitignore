@@ -1,0 +1,22 @@
+# IntelliJ y otros IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Carpetas de compilación (lo que se ve en tus fotos)
+out/
+target/
+bin/
+
+# Java (archivos compilados)
+*.class
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Archivos de sistema y temporales
+.DS_Store
+Thumbs.db
