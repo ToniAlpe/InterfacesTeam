@@ -4,7 +4,7 @@ public class TarjetaCredito implements iMetodoPago {
 
     @Override
     public void procesarPago(double importe) {
-        System.out.println("Procesando pago con" + obtenerTipo() + "de: " + importe + "€");
+        System.out.println("Procesando pago con " + obtenerTipo() + " de: " + importe + "€");
     }
 
     @Override
