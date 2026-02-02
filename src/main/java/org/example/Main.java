@@ -25,7 +25,7 @@ public class Main {
 //        if (pago1.requiereAutenticacion()) {
 //            System.out.println("Este metodo requiero huella o verificación por SMS");
 //        } else {
-//            System.out.println("No requierre nada");
+//            System.out.println("No requiere nada");
 //        }
     }
 }
